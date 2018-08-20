@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InternalExternalIO</string>
+    <string name="filename_hint">enter filename and extension</string>
+    <string name="content_hint">enter file content</string>
+    <string name="select_the_storage">Select the storage</string>
+    <string name="internal">Internal</string>
+    <string name="external">External</string>
+    <string name="save">save</string>
+    <string name="read">read</string>
+</resources>
